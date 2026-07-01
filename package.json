@@ -1,0 +1,22 @@
+{
+  "name": "moirai-docs",
+  "version": "1.0.0",
+  "description": "HonKit-документация для Moirai Editor, no-code движка для создания визуальных новелл.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "honkit serve ./docs ./_book",
+    "build": "honkit build ./docs ./_book"
+  },
+  "keywords": [
+    "honkit",
+    "documentation",
+    "visual-novel",
+    "no-code",
+    "game-engine"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^6.2.2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Документация Moirai Editor",
+  "description": "Пользовательская документация для Moirai Editor, no-code движка для создания визуальных новелл.",
+  "author": "Команда Moirai Editor",
+  "language": "ru",
+  "root": ".",
+  "pluginsConfig": {
+    "fontsettings": {
+      "theme": "white",
+      "family": "sans",
+      "size": 2
+    }
+  }
+}
