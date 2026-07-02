@@ -10,4 +10,4 @@
 
 | Telegram | Email |
 | --- | --- |
-| `@drunk_tanukii` | `ihelpy@ya.ru` |
+| ЛС `https://t.me/Moirai_Visual_Novels` | `ihelpy@ya.ru`, тема: `[Moirai] ...` |
