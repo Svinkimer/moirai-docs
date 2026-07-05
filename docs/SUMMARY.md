@@ -14,7 +14,7 @@
 * [Экспорт и публикация](first-steps/8_export-and-publishing.md)
 
 ## Редактор Moirai
-* [Архитектура движка]()
+* [Архитектура движка](moirai-editor/architecture.md)
 * [Командная разработка](moirai-editor/team-work.md)
 * [Виды сцен](moirai-editor/scenes.md)
     * [Диалог](moirai-editor/scenes/dialog.md)
