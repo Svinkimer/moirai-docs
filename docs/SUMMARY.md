@@ -3,7 +3,8 @@
 * [Введение](README.md)
 
 ## Первые шаги
-* [Установка Moirai Editor](first-steps/0_installation.md)
+* [Вход в личный аккаунт](first-steps/0_installation.md)
+* [Рабочая папка и проекты](projects-and-files.md)
 * [Создание проекта](first-steps/1_project-creation.md)
 * [Обзор редактора](first-steps/2_editor-overview.md)
 * [Персонажи и сцены](first-steps/3_characters-and-scenes.md)
