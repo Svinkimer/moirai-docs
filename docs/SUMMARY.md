@@ -7,7 +7,7 @@
 * [Рабочая папка и проекты](projects-and-files.md)
 * [Создание проекта](first-steps/1_project-creation.md)
 * [Обзор редактора](first-steps/2_editor-overview.md)
-* [Персонажи и сцены](first-steps/3_characters-and-scenes.md)
+* [Персонажи и локации](first-steps/3_characters-and-scenes.md)
 * [Диалоговая сцена](first-steps/4_dialogue-scene.md)
 * [Музыка](first-steps/5_music.md)
 * [Граф истории](first-steps/6_story-graph.md)
